@@ -1,4 +1,4 @@
-# Final Project Kelompok __
+# Final Project Kelompok 01
 Anggota Kelompok:
 - Rayhan Rizky Akbar Amanda 
 - Nurul Muthmainna Ibrahim 
